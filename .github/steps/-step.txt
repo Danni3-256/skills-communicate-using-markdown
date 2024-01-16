@@ -1,1 +1,2 @@
-1
+# Comunicating with Markdown 
+This Markdown lightweight syntax allows and enables developers to format text and communicate with GitHub.
